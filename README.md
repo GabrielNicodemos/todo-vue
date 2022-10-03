@@ -14,7 +14,8 @@
 - Clonar o repositório e navegar até a pasta do projeto e abra seu terminal de preferência
 - Executar os comandos 
   - ***yarn install*** para instalar as dependências
-  - ***yarn server*** para iniciar o projeto
+  - ***yarn serve*** para iniciar o projeto 
+  - ***json-server --watch database.json*** para iniciar o Json-server
 
 
 ### O que esse projeto faz?
@@ -28,3 +29,6 @@
  - Javascript ES6
  - tailwind CSS
  - Json server
+
+### Imagem do projeto
+ <img src="https://github.com/GabrielNicodemos/secret-word/blob/main/public/imagens/Captura%20de%20tela%20de%202022-07-22%2018-23-37.png" width="700" height="500">
