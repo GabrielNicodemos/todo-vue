@@ -1,24 +1,30 @@
-# projeto-todo-list-vue
+# ToDo :memo: 
 
-## Project setup
-```
-yarn install
-```
+### - "Crie suas tarefas"
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Tecnologias
+![Readme Card](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vue.js&logoColor=61DAFB)
+![Readme Card](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=Javascript&logoColor=61DAFB)
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Descrição
+
+### Como iniciar o Projeto? 
+- Clonar o repositório e navegar até a pasta do projeto e abra seu terminal de preferência
+- Executar os comandos 
+  - ***yarn install*** para instalar as dependências
+  - ***yarn server*** para iniciar o projeto
+
+
+### O que esse projeto faz?
+- Adiciona suas tarefas
+- Pode concluir as tarefas
+- Editar e Excluir
+
+## Principais conceitos abordados no projeto
+ - Vuex
+ - Vue Router
+ - Components Vue
+ - Funções Javascript
+ - Json server
