@@ -23,8 +23,8 @@
 - Editar e Excluir
 
 ## Principais conceitos abordados no projeto
+ - Vue3
  - Vuex
- - Vue Router
- - Components Vue
- - Funções Javascript
+ - Javascript ES6
+ - tailwind CSS
  - Json server
