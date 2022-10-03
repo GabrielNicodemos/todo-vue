@@ -31,4 +31,4 @@
  - Json server
 
 ### Imagem do projeto
- <img src="https://github.com/GabrielNicodemos/secret-word/blob/main/public/imagens/Captura%20de%20tela%20de%202022-07-22%2018-23-37.png" width="700" height="500">
+ <img src="https://github.com/GabrielNicodemos/todo-vue/blob/main/public/Captura%20de%20tela%20de%202022-10-03%2012-30-17.png" width="500" height="300">
